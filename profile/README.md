@@ -41,8 +41,8 @@
 | 레포 | 설명 | 기술 |
 |---|---|---|
 | [tail-server](https://github.com/tail-friends/tail-server) | 백엔드 API 서버 | Java 21, Spring Boot, PostgreSQL |
-| [tail-client](https://github.com/tail-friends/tail-client) | 사용자 앱 | Flutter, Rive |
-| 관리자 웹 | 관리자 웹, 랜딩 페이지 | 미정 |
+| [tail-app](https://github.com/tail-friends/tail-app) | 사용자 앱 | Flutter, Rive |
+| [tail-client](https://github.com/tail-friends/tail-client) | 관리자 웹, 랜딩 페이지 | 미정 |
 
 ## 팀
 
